@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="142be6ae-eafc-44ff-99eb-bd929751a899" name="Default Changelist" comment="02">
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGAnnotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchDuckDuckGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchDuckDuckGo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WindowsHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WindowsHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SearchDuckDuckGo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SearchDuckDuckGo.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4bf3322f-f0b7-427a-89cc-7eac33239b11" />
+  </component>
+  <component name="ProjectId" id="1sJ9uQgy2OLYYpshTaes9VTCE8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.WindowsHandle.windowsHandlesTest">
+    <configuration name="SearchDuckDuckGo.searchDuckDuckGo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchDuckDuckGo" />
+      <option name="METHOD_NAME" value="searchDuckDuckGo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsHandle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WindowsHandle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsHandle.windowsHandlesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WindowsHandle" />
+      <option name="METHOD_NAME" value="windowsHandlesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WindowsHandle.windowsHandlesTest" />
+        <item itemvalue="TestNG.WindowsHandle" />
+        <item itemvalue="TestNG.SearchDuckDuckGo.searchDuckDuckGo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="142be6ae-eafc-44ff-99eb-bd929751a899" name="Default Changelist" comment="" />
+      <created>1620580047765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620580047765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="02" />
+    <option name="LAST_COMMIT_MESSAGE" value="02" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
