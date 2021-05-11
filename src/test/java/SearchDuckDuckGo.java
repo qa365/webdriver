@@ -11,31 +11,23 @@ import javax.print.DocFlavor;
 
 import static java.lang.Thread.sleep;
 
-public class SearchDuckDuckGo {
+public class SearchDuckDuckGo extends BaseTestClass {
 
     private static final String DUCK_DUCK_GO_URL = "https://duckduckgo.com/";
-    WebDriver driver;
 
 
     @Test
     public void searchDuckDuckGo() {
 
-        openBrowser();
         goToDuckDuckSearchPage();
         typeSearchRequest();
         submitSearchRequest();
         waitForElement();
         verifyResultsPage();
         waitBeforeCloseBrowser(3);
-        closeBrowser();
 
     }
 
-    private void closeBrowser() {
-
-        driver.close();
-
-    }
 
     private void waitBeforeCloseBrowser (int numbersOfSeconds) {
 
@@ -82,10 +74,4 @@ public class SearchDuckDuckGo {
 
     }
 
-    private void openBrowser() {
-
-        System.setProperty("webdriver.gecko.driver", "src/test/resources/driver.macOS.arm64.firefox/geckodriver");
-        driver = new FirefoxDriver();
-
-    }
 }
